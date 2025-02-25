@@ -24,6 +24,8 @@
 
 ## Description
 
+Learning MongoDB CRUD operations and some more things of database and nestjs.
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Project setup
